@@ -1,0 +1,2 @@
+## BOOK LIBRARY API
+This is a RESTful API built using Node.js, Express, and MongoDB. The API allows users to manage books in a library, including adding, updating, deleting, and retrieving books. It provides essential endpoints for CRUD operations.
